@@ -47,6 +47,10 @@ body{
     font-size: 25px;
     font-weight: bold;
 }
+article h1{
+    font-size: 38px;
+    font-weight: bold;
+}
 
 #wedding_plus{
     border-radius: 20px;
@@ -58,6 +62,14 @@ body{
 }
 #wedding_plus button{
     background: #fff;
+}
+.accordion-header button{
+color: #000!important;
+}
+.footer_link img{
+    width: 120px;
+    height: auto;
+    cursor: pointer;
 }
 /* carousel-item css end*/
 
